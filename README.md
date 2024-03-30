@@ -32,3 +32,5 @@ $ dotnet build
 $ dotnet run 
 ![image](https://github.com/ZCHAnalytics/data-skills-challenge/assets/146954022/580b6f74-2cf7-4c99-b9c3-2554bc263c7a)
 
+and clean up:
+`az group delete --name az204-cosmos-rg --no-wait`
