@@ -34,3 +34,9 @@ $ dotnet run
 
 and clean up:
 `az group delete --name az204-cosmos-rg --no-wait`
+
+### Exercise - Create an Azure function triggered by a webhook
+![image](https://github.com/ZCHAnalytics/data-skills-challenge/assets/146954022/7f86ddea-6ace-4b33-adc5-c2e0db02fdda)
+
+
+![image](https://github.com/ZCHAnalytics/data-skills-challenge/assets/146954022/dfb5cbca-2325-4882-9459-3aadbb3963c3)
