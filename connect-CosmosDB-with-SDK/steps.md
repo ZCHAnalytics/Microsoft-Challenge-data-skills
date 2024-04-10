@@ -1,10 +1,14 @@
 ![image](https://github.com/ZCHAnalytics/Microsoft-Challenge-data-skills/assets/146954022/7f71eff2-3ec5-4405-bdc3-af7ae2af716e)
 
+
+Tasks:
+- Locate and pull the Microsoft.Azure.Cosmos SDK library from NuGet into a .NET project
+- Use the SDK library to connect to an existing Azure Cosmos DB for NoSQL account from a .NET application
+
 ## 0.0. Setup the environment:
+
 - Pre-requisites: Windows 10, Edge, .NET 6 SDK, PowerShell, Git, Windows Terminal, Visual Studio Code and extensions, Azure Cosmos DB Emulator
 - Enable Azure resource providers (Subscription > Settings > Resource providers) are registered: Microsoft.DocumentDB, Microsoft.Insights, Microsoft.KeyVault, Microsoft.Search, Microsoft.Web
-- Import a NuGet package
-`dotnet add package Microsoft.Azure.Cosmos`
 
 ## 1.0. Create an Azure Cosmos DB for NoSQL account
 
