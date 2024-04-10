@@ -8,11 +8,7 @@
 
 ## 1.0. Create an Azure Cosmos DB for NoSQL account
 
-### 1.1. Use the Data Explorer to create a new database and container
-
-### 1.3. Use the Data Explorer to create new items
-
-Here is the result of adding two new items:
+Use the Data Explorer to create a new database and container and add new items:
 
 ![image](https://github.com/ZCHAnalytics/Microsoft-Challenge-data-skills/assets/146954022/369a1fcf-cce6-4b78-a21a-c85f9ce894dc)
 
