@@ -23,5 +23,14 @@ dotnet build
 dotnet run --load-data
 echo "Data load process completed."
 ```
+The dataset is being loaded... 
 
-## Measure performance of entities in separate containers
+![image](https://github.com/ZCHAnalytics/Microsoft-Challenge-data-skills/assets/146954022/343b7a10-6ff4-426f-96bd-5b3ad6634961)
+
+And now it is loaded:
+![image](https://github.com/ZCHAnalytics/Microsoft-Challenge-data-skills/assets/146954022/4aba99f3-df64-4a84-b101-164e4e213627)
+
+
+
+
+
