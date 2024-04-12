@@ -1,8 +1,5 @@
 ![image](https://github.com/ZCHAnalytics/Microsoft-Challenge-data-skills/assets/146954022/c7d69414-aa28-45db-9b92-eab6da3a3283)
 
-## 0. Setup
-- Prepare dataset
-
 ## Create a new indexing policy using the .NET SDK
 The .NET SDK contains a suite of classes related to the parent `Microsoft.Azure.Cosmos.IndexingPolicy` class to build new indexing policies in code.
 ```csharp
