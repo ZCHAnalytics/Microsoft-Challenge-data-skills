@@ -42,16 +42,17 @@ Customize an indexing policy for write-heavy operations
 Measure index performance
 Implement integrated cache
 
+# Monitor and troubleshoot an Azure Cosmos DB for NoSQL solution
+Measure performance with Azure Monitor
+Monitor responses and events analysing REST response codes
+Implement backup and restore for Azure Cosmos DB for NoSQL
+Implement security in Azure Cosmos DB for NoSQL (network level access control, data encryption, RBAC, Microsoft Entra ID, Always Encrypted)
+
 # 6. Performance and Optimization:
 Configure replication and manage failovers
 Use consistency models
 Configure multi-region write
 
-Measure performance
-Monitor responses and events
-
 # 6. Administration and Management:
-Implement backup and restore
-Implement security
 Write management scripts
 Create resource template
