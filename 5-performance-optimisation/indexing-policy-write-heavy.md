@@ -3,7 +3,7 @@
 # Tune the indexing policy based on write-heavy SQL queries
 Azure Cosmos DB for NoSQL is schema-agnostic and the default indexing policy includes all possible paths and values for a good balance between the thoroughness of the index and performance.
 
-In the scenario where a significant portion of the database operations involve adding, updating, or deleting data (i.e., writing data) rather than reading data, indexing policy can be manipulated to reduce associated costs.
+In the scenario where a significant portion of the database operations involve adding, updating, or deleting data (i.e., writing data) rather than reading data, indexing policy can be manipulated to reduce associated costs. The following example shows how the request charge from 48.3 to around 7Rus.
 
 ## Environment set up 
 - Create a serverless account, database 'cosmicworks' and container 'products' in Azure portal
