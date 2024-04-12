@@ -1,6 +1,5 @@
 ![image](https://github.com/ZCHAnalytics/Microsoft-Challenge-data-skills/assets/146954022/c7d69414-aa28-45db-9b92-eab6da3a3283)
 
-
 ## 0. Setup
 - Prepare dataset
 
@@ -48,6 +47,6 @@ Console.WriteLine($"Container Created [{container.Id}]");
 
 ![image](https://github.com/ZCHAnalytics/Microsoft-Challenge-data-skills/assets/146954022/45244fb4-04df-47fe-b392-6faedb82510e)
 
-## Checl the new indexing policy in Azure portal
+## Check the new indexing policy in Azure portal
 
 ![image](https://github.com/ZCHAnalytics/Microsoft-Challenge-data-skills/assets/146954022/c6bc05fb-bb0b-4e19-bcd7-99f53ce49aa0)
