@@ -2,7 +2,8 @@
 
 
 In Azure Data Factory, Azure Cosmos DB is supported as a source of data ingest and as a target (sink) of data output.
-In this exercise, I download relational database with five tables (customer, product, productCategory, productTag, salesOrder) and migrate a subset of data from one container to another using Azure Data Factory, creating a non-relational database. 
+
+In this exercise, I download relational database with five tables (customer, product, productCategory, productTag, salesOrder) and migrate a subset of data from one container to sink container using Azure Data Factory. 
 
 ## Create and seed your Azure Cosmos DB for NoSQL account
 - Create Cosmos DB account (provisioned throughput), database 'cosmisworks', container in Azure Portal.
