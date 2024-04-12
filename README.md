@@ -1,6 +1,8 @@
-# data-skills-challenge
+![image](https://github.com/ZCHAnalytics/Microsoft-Challenge-data-skills/assets/146954022/3092bc28-ff3b-444f-8a27-703d3fcb5dbb)
 
-## Exercise: Migrate existing data using Azure Data Factory
+Tools: Azure Cosmos DB for NoSQL, Azure Data Factory, Gitbash, Visual Studio Code
+
+## Exercise 1: Migrate existing data using Azure Data Factory
 
 Migrate existing data using Azure Data Factory
 In Azure Data Factory, Azure Cosmos DB is supported as a source of data ingest and as a target (sink) of data output.
