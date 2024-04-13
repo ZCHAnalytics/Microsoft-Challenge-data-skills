@@ -9,43 +9,41 @@ Visual Studio Code terminal, CLI 'cosmicworks' from NuGet
 - Plan Resource Requirements (thoroughput)
 - Configure the Azure Cosmos DB for NoSQL database and containers
 - Data migration with Azure Data Factory (Spark also available)
-
-# 2. .NET SDK Integration  
-- Microsoft.Azure.Cosmos library
+- .NET SDK Integration with Microsoft.Azure.Cosmos library
 - Offline emulator 
 
-# 3. Query Execution and Indexing
+# 2. Query Execution and Indexing
 - Point and cross-document transactional operations, bulk data
 - Type-checking, built-in functions, cross-product, correlated, variables and pagination 
-- Indexing policy with   composite indexes 
+- Indexing policy with composite indexes 
 
-# 4. Integrate with Azure Services
+# 3. Integrate with Azure Services
 - Consume a change feed using the SDK
 - Azure Functions and change feed
 - Azure Cognitive Search
    
-# 5. Data Modelling and Partitioning
+# 4. Data Modelling and Partitioning
 - Non-relational data model
 - Data partitioning strategy
 
-# 6. Replication and Consistency
+# 5. Replication and Consistency
 - Replication and failovers
 - Consistency models
 
-# 7. Performance Optimisation v
+# 6. Performance Optimisation v
 - Indexing policy for write-heavy operations v
 - Index performance metrics and integrated cache v
 
-# 8. Monitor and Troubleshoot
+# 7. Monitor and Troubleshoot
 - Measure performance with Azure Monitor
 - Monitor responses and events analysing REST response codes
 - Backup, Restore and Security Implementation
   
-# 9. Manage using DevOps Practices
+# 8. Manage using DevOps Practices
 - Management scripts
 - Resource template
 
-# 10. Server-Side Programming Constructs
+# 9. Server-Side Programming Constructs
 - Multi-item transactions
 - Query and transaction functionality
 
