@@ -47,6 +47,11 @@ Bad Request Error:
 the second one is a System generated one. 
 What the second message means is that we have been granted access to the connect to the Key vault, but we have not been granted access to view the secret inside the vault. Let's set one final setting to fix this issue.
 ![image](https://github.com/ZCHAnalytics/Microsoft-Challenge-data-skills/assets/146954022/6fa66a15-11ff-4972-b168-717965eb0ff9)
+Last step:
+Finally!
+
+![image](https://github.com/ZCHAnalytics/Microsoft-Challenge-data-skills/assets/146954022/1d61560a-ecc2-412b-ad81-f9cc5abcb5e3)
+
 
 
 ### Granting our web application an access policy to the Key Vault secrets
