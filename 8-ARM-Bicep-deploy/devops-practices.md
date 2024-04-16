@@ -1,6 +1,6 @@
 ![image](https://github.com/ZCHAnalytics/Microsoft-Challenge-data-skills/assets/146954022/cf3a6cf2-a806-4f51-9fba-77ba35d8d19a)
 
-# Automate common tasks for Azure Cosmos DB for NoSQL with CLI, Azure Resoure Manager, and ARM/Bicep templates
+# Automate common tasks with CLI, Azure Resoure Manager, and ARM/Bicep templates
 
 ## 1. Using Azure Resource Manager templates
 
